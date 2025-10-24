@@ -1,3 +1,12 @@
 title: "Mat Leave Diaries"
-description: "My personal blog documenting my maternity leave journey"
-theme: jekyll-theme-minimal
+description: "My personal blog documenting my maternity leave adventures"
+remote_theme: codebygina/mundana-theme-jekyll
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+author:
+  name: "Hope Aitchison"
+  bio: "New mum documenting my mat leave journey"
+  email: "hope.aitchison1@gmail.com"
